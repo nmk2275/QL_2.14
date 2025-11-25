@@ -64,21 +64,6 @@ QBER computation
 
 Secure key extraction
 
-📂 Project Structure
-QKD_project/
-│── app.py                    # Flask server
-│── qkd_backend/              # Core BB84 logic
-│   ├── bb84.py               # Main BB84 implementation
-│   ├── utils.py              # Helper functions
-│── templates/                # HTML files
-│   ├── index.html
-│   ├── result.html
-│── static/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│── README.md
-
 🚀 How It Works
 1️⃣ Qubit Generation
 
