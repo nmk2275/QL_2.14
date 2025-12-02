@@ -126,7 +126,7 @@ Real-time qubit animation
 
 📜 License
 
-MIT License.
+Apache License.
 
 🙋‍♀️ Author
 
