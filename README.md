@@ -6,6 +6,7 @@ Built with Python and Flask, this project visualizes how two parties (Alice & Bo
 This project is designed for demos, academic use, and hands-on understanding of quantum cryptography principles.
 
 ⭐ Features
+
 ⚛️ BB84 Protocol Simulation
 
 Implements the full workflow of BB84:
@@ -65,6 +66,7 @@ QBER computation
 Secure key extraction
 
 🚀 How It Works
+
 1️⃣ Qubit Generation
 
 Alice generates:
@@ -123,12 +125,3 @@ Support for E91 & B92 QKD protocols
 Exportable experiment logs
 
 Real-time qubit animation
-
-📜 License
-
-Apache License.
-
-🙋‍♀️ Author
-
-Developed by Kalivarapu Namratha
-Feel free to reach out or contribute!
